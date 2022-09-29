@@ -3,7 +3,7 @@ package com.nissan.bean;
 public class UserDefinedException {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Evaluation evaluation = new Evaluation(75, 70);
+		Evaluation evaluation = new Evaluation(-75, 70);
 		
 		try {
 			evaluation.display();
