@@ -17,9 +17,7 @@ public class ArrayExc {
 		catch(ArrayIndexOutOfBoundsException ex) {
 			System.out.println("Access array elements under array size");
 		}
-		// TODO Auto-generated method stub
 		
-
 	}
 
 }
